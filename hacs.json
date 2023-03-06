@@ -1,0 +1,6 @@
+{
+    "name": "Attribute sensor",
+    "content_in_root": false,
+    "render_readme": false,
+    "homeassistant": "2022.12.0"
+  }

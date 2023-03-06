@@ -1,0 +1,13 @@
+{
+  "domain": "attribute_sensor",
+  "name": "Attribute Sensor",
+  "vesion": "1.0.0",
+  "documentation": "https://github.com/albinmedoc/ha-attribute-sensor",
+  "issue_tracker": "https://github.com/albinmedoc/ha-attribute-sensor/issues",
+  "codeowners": [
+    "@albinmedoc"
+  ],
+  "iot_class": "calculated",
+  "config_flow": true,
+  "integration_type": "helper"
+}

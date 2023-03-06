@@ -1,0 +1,30 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "data": {
+                    "attribute": "Attribute",
+                    "device_class": "Device class",
+                    "name": "Name",
+                    "source": "Source entity",
+                    "unit_of_measurement": "Unit of measurement"
+                },
+                "description": "Create a sensor from a attribute value of another entity",
+                "title": "Create a sensor of a entity attribute"
+            }
+        }
+    },
+    "options": {
+        "step": {
+            "init": {
+                "data": {
+                    "attribute": "Attribute",
+                    "device_class": "Device class",
+                    "source": "Source entity",
+                    "unit_of_measurement": "Unit of measurement"
+                }
+            }
+        }
+    },
+    "title": "Create a sensor of a entity attribute"
+}
