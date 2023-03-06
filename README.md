@@ -1,4 +1,4 @@
-# Home Assistant Cleanmate Integration
+# Home Assistant Attribute Sensor
 
 The Attribute Sensor integration consumes a attribute value from another entity to determine it's own state.
 
